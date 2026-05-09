@@ -1,0 +1,5 @@
+# Student-Management-System
+
+The "Student Management System" is a sophisticated Full Stack project using CSS, HTML, MySQL, Python, and Flask, streamlining student-related tasks. With features like real-time updates and automation, it ensures efficient data management, enhancing collaboration in educational environments.
+
+Developed a comprehensive Student Management System as a Full-Stack Development (FSD) project with a strong emphasis on Database Management Systems (DBMS). The system integrated front-end and back-end components to facilitate efficient data entry, retrieval, and reporting for educational institutions. Employed technologies such as HTML, CSS, JavaScript, and a relational database (e.g., MySQL) for data storage and retrieval. The project showcased my proficiency in both front-end and back-end development, as well as effective DBMS design and implementation. Its success in enhancing efficiency and data management aligns with my goal to contribute technology-driven solutions in the education sector.
